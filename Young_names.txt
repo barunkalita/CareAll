@@ -1,0 +1,3 @@
+User(name=pqr,amount=45)
+User(name=chad,amount=989)
+User(name=lisa,amount=345)

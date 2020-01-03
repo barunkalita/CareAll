@@ -1,0 +1,8 @@
+User(name=cde,amount=200)
+User(name=barun ,amount=100)
+User(name=varun,amount=300)
+User(name=tarun,amount=900)
+User(name=rere,amount=32)
+User(name=df,amount=34534)
+User(name=dfdsf,funds=234)
+User(name=kim,funds=980,sep='  ')
