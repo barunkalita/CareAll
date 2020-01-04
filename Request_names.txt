@@ -1,2 +1,0 @@
-(name=Matt)
-(name=Diana)
