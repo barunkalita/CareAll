@@ -1,3 +1,4 @@
 (name=Rahul,fees=100)
 (name=Roger,fees=300)
 (name=Lucy,fees=550)
+(name=Clarke,fees=300)
