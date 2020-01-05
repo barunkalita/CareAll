@@ -1,3 +1,4 @@
-(name=Sachin,fees=100)
-(name=Samrat,fees=100)
-(name=Ravi,fees=100)
+(name=Ravi_Y,fees=100)
+(name=Raj_Y,fees=100)
+(name=Rohan_Y,fees=100)
+(name=Raju_Y,fees=100)
